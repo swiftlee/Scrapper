@@ -1,0 +1,11 @@
+#BLOCKS.ANIMATION -> WHETHER OR NOT THE ANIMATION PLAYS FOR THE BLOCKS.
+#BLOCKS.ITEM -> THE ITEM THAT IS SHOWN ON TOP OF THE BLOCKS AFTER SCRAPPING
+
+scrapper:
+ gui:
+  name: "&6&lScrapper"
+ blocks:
+  animation: true
+  item: "YELLOW_FLOWER"
+ items:
+  IRON_BLOCK: 0

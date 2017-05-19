@@ -1,0 +1,4 @@
+net\jmdev\utils\TextUtils.class
+net\jmdev\listener\InventoryCloseListener.class
+net\jmdev\database\ScrapperDatabase.class
+net\jmdev\command\CommandScrapper.class

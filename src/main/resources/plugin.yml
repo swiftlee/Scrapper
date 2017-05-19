@@ -1,0 +1,17 @@
+name: Scrapper
+main: net.jmdev.Scrapper
+version: 1.0
+description: GUI that allows you to scrap items and get money for it.
+author: SwiftLee
+
+depend: [Vault]
+
+commands:
+ scrapper:
+  usage: /<command>
+  description: Used to display or set a new scrapper GUI/location.
+
+permissions:
+ scrapper:
+  default: op
+  description: Can set new scrapper locations.
